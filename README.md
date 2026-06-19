@@ -18,7 +18,6 @@ Computer Engineering student passionate about AI, Agentic Systems, and Full-Stac
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
----
-[![](https://komarev.com/ghpvc/?username=harshkhairnar63&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
